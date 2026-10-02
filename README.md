@@ -211,5 +211,5 @@ This project was my first time working with Kafka, Redis, WebSocket, and Docker.
 
 ## Author
 
-**Anuj Kumar Singh** — Final year IT student at DTU  
-[GitHub](https://github.com/Anuj8506)
+**HARSH KUMAR** — Final year BCA student at MIMT  
+[GitHub](https://github.com/Harsh-kr2707)
